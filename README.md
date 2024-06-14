@@ -17,11 +17,12 @@ I am a passionate mobile app developer. I have knowledge in developing Android a
 ## Contact
 
 - 📫 Email: [diendevv@gmail.com](mailto:diendevv@gmail.com)
+- ✨ Facebook: [Huỳnh Quốc Diện](https://www.facebook.com/dien.dev/)
 
 ## Hobbies
 
 - 💻 Coding
 - 🏋️‍♀️ Gym
-- 🎵 Listening to music
+- 🎶 Singing
 
 ## Thanks for visiting! 😉
