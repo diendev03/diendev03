@@ -1,7 +1,10 @@
-# Have a nice day! I'm Huỳnh Quốc Diện 👋
+# Have a nice day! My name is Huỳnh Quốc Diện 👋
 
 ## About Me
 I am a passionate mobile app developer. I have knowledge in developing Android applications using Java and cross-platform applications using Flutter, integrating third-party APIs or services such as Firebase and mockAPI to optimize user experience in my applications.
+
+## Career Objective
+🎯 I aim to leverage my skills in mobile development to create innovative and impactful applications that enhance the user experience and solve real-world problems.
 
 ## Skills
 
