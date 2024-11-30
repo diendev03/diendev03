@@ -13,9 +13,11 @@ I am a passionate mobile app developer. I have knowledge in developing Android a
 
 ## Projects
 
+- [💅 Booking](Company): The application is used for booking services (nail). Main role: complete the booking and appointment scheduling functionality (with UI provided by design, API provided by the backend).
+- [🏬 CRM](Company): The application is used to manage tasks and projects (including list and kanban views) (designed and coded by us, with the API provided by the backend).
+- [📅 BudEarn](https://github.com/diendev03/BudEarn): An application for managing part-time jobs for students and part-time workers.
 - [🏨 TDC - Hotel Manager](https://github.com/lamtung373/TDC-Hotel-Manager): An application that helps manage hotels (TDC-Hotel system).
 - [🏩 TDC - Hotel](https://github.com/lamtung373/TDC-Hotel): A hotel booking application (TDC-Hotel system).
-- [📅 BudEarn](https://github.com/diendev03/BudEarn): An application for managing part-time jobs for students and part-time workers.
 
 ## Contact
 
