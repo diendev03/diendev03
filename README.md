@@ -84,9 +84,8 @@ I aim to master both **native and cross-platform mobile development**, while als
 - **Technologies**: Flutter, Dart, QR Code Scanner, REST API, Local Storage.
 
 ### 🎓 Graduation Project (06/2023 – 12/2023) | Team size: 5
-- [🏨 TDC - Hotel Manager](https://github.com/lamtung373/TDC-Hotel-Manager).
-- [🏩 TDC - Hotel](https://github.com/lamtung373/TDC-Hotel).
-A mobile-first system for managing hotel operations and booking (TDC-Hotel system).
+- [🏨 TDC - Hotel Manager](https://github.com/lamtung373/TDC-Hotel-Manager): An internal application for hotel managers and staff to manage operations such as bookings, check-ins, check-outs, and room status.
+- [🏩 TDC - Hotel](https://github.com/lamtung373/TDC-Hotel): A mobile-first system for managing hotel operations and booking (TDC-Hotel system).
 
 - **Role**: Mobile App Developer
 - **Responsibilities**:
