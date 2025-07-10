@@ -41,7 +41,8 @@ I aim to master both **native and cross-platform mobile development**, while als
 - **[Backend API](https://github.com/diendev03/drilly_backend.git)**: Node.js (Express) + MySQL
 - **[Web](https://github.com/diendev03/drilly_web.git)**: ReactJS + TypeScript
 
-### [📦 WMS](Company) (02/2025 – 06/2025) | Team size: 4
+### 📦 WMS (02/2025 – 06/2025) | Team size: 4
+- 🔒 [Private Repository – Company Project]
 - A warehouse management application with features such as quotations, invoices, product listings, statistics, and real-time chat.
 - **Role & Responsibilities**:
   - Designed the UI and built the app from scratch.
@@ -51,7 +52,8 @@ I aim to master both **native and cross-platform mobile development**, while als
   - Deployed the app to both App Store and Google Play.
 - **Technologies**: Flutter, Dart, Bloc, REST API, Firebase, Pusher.
 
-### [🛒 E-commerce App](Company) (11/2024 – 01/2025) | Team size: 4
+### 🛒 E-commerce App (11/2024 – 01/2025) | Team size: 4
+- 🔒 [Private Repository – Company Project]
 - An online marketplace application that connects buyers and sellers through a unified mobile platform.
 - **Role & Responsibilities**:
   - Developed core buyer-side features such as product browsing, cart management, and checkout flow.
@@ -60,17 +62,20 @@ I aim to master both **native and cross-platform mobile development**, while als
   - Deployed the application to both App Store and Google Play.
 - **Technologies**: Flutter, Dart, Provider, REST API, AWS (S3).
 
-### [💅 Booking](Company) (8/2024 – 11/2025) | Team size: 8
+### 💅 Booking (8/2024 – 11/2025) | Team size: 8
+- 🔒 [Private Repository – Company Project]
 - A mobile application used for booking nail services.
 - **Main Role**: Implemented complete booking and appointment scheduling functionality.
 - **Tech Stack**: Flutter (UI from design team, API from backend).
 
-### [🏬 CRM](Company) (06/2024 – 01/2025) | Team size: 4
+### 🏬 CRM (06/2024 – 01/2025) | Team size: 4
+- 🔒 [Private Repository – Company Project]
 - A task and project management application with list and Kanban views.
 - **Main Role**: Designed and developed both UI and logic.
 - **Tech Stack**: Flutter (design and code by us, API provided by backend).
   
-### [🎫 G-Ticket](company) (09/2023 – 05/2024) | Team size: 3
+### 🎫 G-Ticket(09/2023 – 05/2024) | Team size: 3
+- 🔒 [Private Repository – Company Project]
 - A mobile app for scanning and validating visitor tickets via QR codes, designed to support both online and offline environments.
 - **Role & Responsibilities**:
   - Implemented QR code scanning and integrated APIs for ticket validation.
