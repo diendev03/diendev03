@@ -1,19 +1,40 @@
 # Have a nice day! My name is Huỳnh Quốc Diện 👋
 
-## About Me
-I am a passionate mobile app developer. I have knowledge in developing Android applications using Java and cross-platform applications using Flutter, integrating third-party APIs or services such as Firebase and mockAPI to optimize user experience in my applications.
+## 👨‍💻 About Me
 
-## Career Objective
-🎯 I aim to leverage my skills in mobile development to create innovative and impactful applications that enhance the user experience and solve real-world problems.
+I am a mobile application developer with a strong focus on **Flutter** (cross-platform). I have worked on various projects across different domains such as e-commerce, booking, hotel management, and warehouse systems.  
+My experience includes building complex UIs, integrating third-party services like **Firebase**, **AWS S3**, **Pusher**, and optimizing app performance and user experience.
 
-## Skills
+Besides Flutter, I have a background in **Android development using Java**, and I am actively learning and building backend APIs with **Node.js (Express + MySQL)** and web frontends using **ReactJS**.
 
-- **Programming Languages**: 🛠️ Dart, Java, ...
-- **Tools and Technologies**: 🧰 Git, Firebase, Android Studio ...
+---
+
+## 🎯 Career Objective
+
+To apply my current skills and continuously learn new technologies in order to build useful applications that serve real-life and business needs.  
+I aim to master both **native and cross-platform mobile development**, while also strengthening my backend development capabilities to create complete app ecosystems.
+
+---
+
+## 💡 Skills
+
+- **Main Tech**:  
+  - 🛠️ Flutter (Dart): UI development, state management (Bloc, Provider), API integration  
+  - ⚙️ Android (Java): App development & Firebase integration
+
+- **Backend & Web (Learning/Using)**:  
+  - 🌐 Node.js + Express + MySQL  
+  - 🖥️ ReactJS + TypeScript
+
+- **Services & Tools**:  
+  - ☁️ Firebase (Auth, Firestore, Realtime DB)  
+  - 🔌 AWS S3 (image uploads), Pusher (real-time chat)  
+  - 🧰 Git, Postman, Android Studio, VS Code
+    
 
 ## Projects
 
-### 🛠️ Drilly (Personal Project)
+### 🛠️ Drilly (Personal Project)(07/2025-Developing)
 - A multi-platform application supporting productivity, including task management and user authentication.
 - **Role**: Full-stack developer.
 - **[Mobile App](https://github.com/diendev03/drilly.git)**: Flutter
