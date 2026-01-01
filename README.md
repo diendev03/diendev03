@@ -39,7 +39,7 @@ I aim to master both **native and cross-platform mobile development**, while als
 - **Role**: Full-stack developer.
 - **[Mobile App](https://github.com/diendev03/drilly.git)**: Flutter
 - **[Backend API](https://github.com/diendev03/drilly_backend.git)**: Node.js (Express) + MySQL
-- **[Web](https://github.com/diendev03/drilly_web.git)**: ReactJS + TypeScript
+- **[Web](https://github.com/trieu203/drilly_reactjs_typescript)**: ReactJS + TypeScript
 
 ### 📦 WMS (02/2025 – 06/2025) | Team size: 4
 - 🔒 [Private Repository – Company Project]
@@ -51,16 +51,6 @@ I aim to master both **native and cross-platform mobile development**, while als
   - Developed real-time chat functionality using Pusher and Firebase.
   - Deployed the app to both App Store and Google Play.
 - **Technologies**: Flutter, Dart, Bloc, REST API, Firebase, Pusher.
-
-### 🛒 E-commerce App (11/2024 – 01/2025) | Team size: 4
-- 🔒 [Private Repository – Company Project]
-- An online marketplace application that connects buyers and sellers through a unified mobile platform.
-- **Role & Responsibilities**:
-  - Developed core buyer-side features such as product browsing, cart management, and checkout flow.
-  - Built seller-side tools to manage products, view sales data through interactive charts, and handle incoming orders.
-  - Integrated image uploading to AWS and connected with backend services via REST APIs.
-  - Deployed the application to both App Store and Google Play.
-- **Technologies**: Flutter, Dart, Provider, REST API, AWS (S3).
 
 ### 💅 Booking (8/2024 – 11/2025) | Team size: 8
 - 🔒 [Private Repository – Company Project]
